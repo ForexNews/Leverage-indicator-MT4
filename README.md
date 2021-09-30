@@ -1,9 +1,9 @@
 # Leverage-indicator-MT4
 ![Leverage Indicator MT4 Screen](https://forexnew.org/wp-content/uploads/2021/09/Leverage-Indicator.png)
 - Leverage indicator is a tool for checking the current leverage of a trading account.
-- Useful to monitor, if broker forex changing leverage, during the economic news announcements.
-- Real-time monitoring.
-- Coding for MetaTrader 4 platform and all broker forex.
+- Useful to monitor, if broker changing leverage, during the economic news announcements.
+- Real-time leverage monitoring.
+- Coding for MetaTrader 4 platform and all MT4 brokers.
 - See working example at [Leverage indicator](https://forexnew.org/คลังความรู้/leverage-คืออะไร/#indicators)
 
 ## Inputs Parameter
